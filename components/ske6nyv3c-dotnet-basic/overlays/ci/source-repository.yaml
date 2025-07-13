@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ske6nyv3c-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ske6nyv3c-dotnet-basic
